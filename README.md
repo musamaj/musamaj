@@ -33,7 +33,7 @@ Currently, I’m exploring the intersection of **AI**, **SwiftUI**, and **intera
 
 ## 🛠️ Tech I Use
 
-**Languages**: Swift, Kotlin, Dart, Python  
+**Languages**: Swift, Objective-C, Dart, Python  
 **Frameworks**: SwiftUI, Combine, Flutter, UIKit  
 **Architecture**: MVVM, VIP, Clean Architecture, Modularization  
 **Tools**: Xcode, Firebase, Fastlane, GitHub Actions, Postman  
