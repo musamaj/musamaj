@@ -3,8 +3,8 @@
 I’m a passionate iOS Engineer with 8+ years of experience building high-impact mobile applications across startups and large-scale platforms. I specialize in **Swift**, **SwiftUI**, and **mobile architecture**, with a strong focus on performance, scalability, and clean design.
 
 Currently, I’m exploring the intersection of **AI**, **SwiftUI**, and **interactive user experiences**, while working on projects like:
-- 📱 [GitHub Repositories Viewer](https://github.com/usama-jamil/GithubRepoViewer-SwiftUI) – a SwiftUI project to explore public repos using GitHub APIs
-- 🌦️ Weather App (WIP) – a modular SwiftUI app fetching real-time weather using public APIs
+- 📱 [GitHub Repositories](https://github.com/musamaj/SwiftUIPractice) – a SwiftUI project to explore public repos using GitHub APIs
+- 🌦️ Weather App (WIP) – a modular SwiftUI app fetching real-time weather using public APIs - https://github.com/musamaj/WeatherApp---SwiftUI
 
 ---
 
@@ -17,10 +17,11 @@ Currently, I’m exploring the intersection of **AI**, **SwiftUI**, and **intera
 - Increased crash-free sessions to 99.9% with memory & threading improvements
 - Led modularization efforts for cross-platform reusability
 
-### 🏢 CNCM LLC — *Software Engineer*
+### 🏢 Wego — *Software Engineer*
 *Earlier*
-- Built & maintained scalable mobile features for a logistics & delivery platform
-- Enhanced performance of real-time location services in iOS app
+- Implemented Tabby integration for "Buy Now, Pay Later" functionality in the UAE and KSA regions, aimed at enhancing conversion rates and streamlining the checkout process.
+- Enhanced the booking flow by introducing the room selection feature, empowering customers to make informed decisions by facilitating relevant room selections.
+- Enhanced the app experience by transitioning core flows from web view to native functionality, ensuring smoother and more seamless user interactions.
 
 ---
 
