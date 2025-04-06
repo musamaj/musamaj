@@ -2,9 +2,12 @@
 
 I’m a passionate iOS Engineer with 8+ years of experience building high-impact mobile applications across startups and large-scale platforms. I specialize in **Swift**, **SwiftUI**, and **mobile architecture**, with a strong focus on performance, scalability, and clean design.
 
-Currently, I’m exploring the intersection of **SwiftUI**, and **interactive user experiences**, while working on projects like:
+Currently, I’m exploring the intersection of **SwiftUI**, **Combine**, **Structured Concurrency** and **interactive user experiences**, while working on projects like:
+- [SwiftUI-Grid](https://github.com/musamaj/SwiftUI-Grid) - Grid using SwiftData & SwiftTesting Framework for Unit/UI Testing
 - 📱 [GitHub Repositories](https://github.com/musamaj/SwiftUIPractice) – a SwiftUI project to explore public repos using GitHub APIs
-- 🌦️ Weather App (WIP) – a modular SwiftUI app fetching real-time weather using public APIs - https://github.com/musamaj/WeatherApp---SwiftUI
+- 🌦️ [Weather App (WIP)](https://github.com/musamaj/WeatherApp---SwiftUI) – SwiftUI app fetching real-time weather using public APIs
+- [SwiftUI-Prep](https://github.com/musamaj/SwiftUI-Prep) - Repo contain SwiftUI Preparation Stuff
+- [SwiftGists](https://gist.github.com/musamaj)
 
 ---
 
