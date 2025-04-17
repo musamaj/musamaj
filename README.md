@@ -14,7 +14,7 @@ Currently, I’m exploring the intersection of **SwiftUI**, **Combine**, **Struc
 ## 🚀 Experience Highlights
 
 ### 🏢 Dubizzle Group — *Senior iOS Engineer*
-*Feb 2023 – Jan 2025*
+*Feb 2023 – Present*
 - Boosted app responsiveness by 70% in low/no network conditions
 - Integrated **Flutter** into a native iOS app to revamp core features like Chat & Favorites (⚡️+40% leads)
 - Increased crash-free sessions to 99.9% with memory & threading improvements
